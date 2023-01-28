@@ -7,13 +7,13 @@
 
 ## Beranda
 ### Table
-####- [x] Project Name
-####- [x] Client
-####- [x] Project Leader
-####- [x] Start Date
-####- [x] End Date
-####- [x] Progress
-####- [x] Action
+- [x] Project Name
+- [x] Client
+- [x] Project Leader
+#### - [x] Start Date
+- [x] End Date
+- [x] Progress
+- [x] Action
 ![Dasboard](https://user-images.githubusercontent.com/103617674/215237643-4bd74e0f-0c4b-4362-b011-42de821df705.png)
 
 
