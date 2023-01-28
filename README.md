@@ -19,13 +19,9 @@
 
 
 ## Tambah
-<br>
+
 ![tambahData](https://user-images.githubusercontent.com/103617674/215237768-e3283ff1-c116-44a1-a4e7-ee2f228664af.png)
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Edit
 <br>
