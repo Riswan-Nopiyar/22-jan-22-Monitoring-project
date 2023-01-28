@@ -13,8 +13,8 @@
 - [x] Start Date
 - [x] End Date
 - [x] Progress
-- [x] Action
-<br>
+- [x] Action <br>
+
 ![Dasboard](https://user-images.githubusercontent.com/103617674/215237643-4bd74e0f-0c4b-4362-b011-42de821df705.png)
 
 
