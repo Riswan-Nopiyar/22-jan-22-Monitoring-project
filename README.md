@@ -2,8 +2,8 @@
 <b>Nama  :</b>Riswan Nopiyar<br>
 <b>NPM   :</b>2010010085<br>
 <b>Kampus:</b> UNISKA Banjarmasin<br>
-<b>Asal  :</b> Jln.A.Yani KM 8, Kertak Hanyar ,kabupaten banjar, Kalimantan Selatan<br>
 
+## NYALAKAN SINYAL INTERNET TERLEBIH DAHULU !!
 
 ## Beranda
 ### Table
