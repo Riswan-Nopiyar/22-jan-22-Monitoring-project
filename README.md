@@ -3,7 +3,7 @@
 <b>NPM   :</b>2010010085<br>
 <b>Kampus:</b> UNISKA Banjarmasin<br>
 
-## NYALAKAN SINYAL INTERNET TERLEBIH DAHULU !!
+## NYALAKAN SINYAL INTERNET TERLEBIH DAHULU !!!
 
 ## Beranda
 ### Table
